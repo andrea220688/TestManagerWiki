@@ -1,0 +1,15 @@
+{
+  "name": "test_manager_documentation",
+  "version": "1.0.0",
+  "description": "doc for TM",
+  "main": "index.js",
+  "author": "datalogicAME",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}

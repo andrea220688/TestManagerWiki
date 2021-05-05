@@ -1,0 +1,3 @@
+# Installazione
+
+qui la guida su come  si istalla test maanager e il setup delle cartelle....e utilizzo dltest.tdb....
